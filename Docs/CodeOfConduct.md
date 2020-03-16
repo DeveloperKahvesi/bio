@@ -19,3 +19,5 @@ Etik Kurallarımız çerçevesinde gerekli adımları zaman kaybetmeden atacakt�
 
 Kayıtlarımızın düzenlenmesi aşamasında RTDNA (Radio Television Digital News Association)
 tarafından yayınlanan [kılavuzu](https://www.rtdna.org/content/guidelines_for_ethical_video_and_audio_editing) takip ediyoruz.
+
+[<< Ana Sayfaya Dön](../README.md)
