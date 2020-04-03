@@ -17,7 +17,7 @@ Bu repository'de Developer Kahvesi Bio serisinde konuk ettiğimiz katılımcıla
 
 # Konuklarımız
 
-**Bölüm - 004** | [Hasan Erişmen](/episodes/ep003.md) - 03 Nisan 2020 | [Dinle]()
+**Bölüm - 004** | [Hasan Erişmen](/episodes/ep004.md) - 03 Nisan 2020 | [Dinle]()
 
 **Bölüm - 003** | [Ege Su Çetin](/episodes/ep003.md) - 03 Nisan 2020 | [Dinle]()
 
